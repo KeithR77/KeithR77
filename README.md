@@ -4,8 +4,8 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=600&size=35&duration=1&pause=2000&color=F70049&repeat=false&random=false&width=435&lines=ABOUT+ME%3A)](https://git.io/typing-svg)
-- 👨🏻‍💻 I'm a passionate `Software Developer/Engineer`, `IT Professional`, and `Full-Stack Web Developer`.
-- 💼 I work at a hospital network in the state of PA as a `[Microcomputer Associate]`.
+- 👨🏻‍💻 I'm a passionate `IT Professional` and `Software/Web Developer`.
+- 💼 I work at a hospital network in the state of PA as a `[Systems Analyst]`.
 - 🌱 Currently learning `Python`, `PowerShell Scripting`, and `React`!
 
 #
@@ -31,13 +31,13 @@
 [<img  alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />](https://github.com/KeithR77?tab=repositories)
 #
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=600&size=35&duration=1&pause=2000&color=F70049&repeat=false&random=false&width=435&lines=SKILLS%3A)](https://git.io/typing-svg)
-- 🎆`Hard-Skills:` Project Management, System Administration, Troubleshooting, Documentation, Machine Imaging, Helpdesk Support, Cybersecurity, Hardware & Peripheral Management
+- 🎆`Hard-Skills:` Project Management, System Administration, Troubleshooting, Technical Documentation, Helpdesk Support, Hardware & Peripheral Management, Cybersecurity, Virtualization
   
-- 🎇`Soft-Skills:` Cross-functional Collaboration, Customer Service, Time Management, Adaptable, Creative, Analytical, Critical Thinker, Proactive Problem Identification
+- 🎇`Soft-Skills:` Collaborative, Customer Service, Time Management, Proactive Problem Identification, Adaptable, Creative, Analytical,
   
 - 📚`Methodologies:` Object-Oriented Programming, System Development Life Cycle, Waterfall, Agile
   
-- 🛠️`Tools & Apps (Information Technology):` Active Directory, Operating Systems (Windows & IGEL), MS Office Suite, Exchange Admin Center, Dameware/RDP, VMWare, Ivanti, Hospital Apps/Services (Cerner, Athena, etc.)
+- 🛠️`Tools & Apps (Information Technology):` Active Directory, Operating Systems (Windows & IGEL), MS Office Suite, Exchange Admin Center, Dameware/RDP, VMWare, Ivanti, Hospital Apps/Services (Cerner, Athena,  etc.)
 
 #
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=600&size=35&duration=1&pause=2000&color=F70049&repeat=false&random=false&width=435&lines=PROJECTS%3A)](https://git.io/typing-svg)
