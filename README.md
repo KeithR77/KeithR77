@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/u3bcdQS.png" align="center">
-
 # <p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=600&size=30&duration=3500&pause=2000&color=F70049&random=false&width=435&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)</p>
 
 
@@ -38,11 +36,6 @@
 - 📚`Methodologies:` Object-Oriented Programming, System Development Life Cycle, Waterfall, Agile
   
 - 🛠️`Tools & Apps (Information Technology):` Active Directory, Operating Systems (Windows & IGEL), MS Office Suite, Exchange Admin Center, Dameware/RDP, VMWare, Ivanti, Hospital Apps/Services (Cerner, Athena,  etc.)
-
-#
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=600&size=35&duration=1&pause=2000&color=F70049&repeat=false&random=false&width=435&lines=PROJECTS%3A)](https://git.io/typing-svg)
-
-[<img src="https://i.imgur.com/ew2BDN9.gif" href="https://kcodes.me/portfolio">](https://kcodes.me/portfolio)
 
 # 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=600&size=35&duration=1&pause=2000&color=F70049&repeat=false&random=false&width=435&lines=STATS%3A)](https://git.io/typing-svg)
